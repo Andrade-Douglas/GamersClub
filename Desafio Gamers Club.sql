@@ -1,5 +1,5 @@
 use gamersclub;
-select * from matchmaking_stats_summary;
+
 # Para aquecimento:
 
   #  1. Quantos usuários únicos não jogaram após o dia 03/02/2020? R: 995
