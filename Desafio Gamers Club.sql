@@ -1,5 +1,3 @@
-use gamersclub;
-
 # Para aquecimento:
 
   #  1. Quantos usuários únicos não jogaram após o dia 03/02/2020? R: 995
